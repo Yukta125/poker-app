@@ -182,7 +182,7 @@
         <resource>
             <directory>src/main/java/ui/static/login</directory>
             <includes>
-                <include>**/*</include>
+                <include>**/**/**/*</include>
             </includes>
         </resource>
     </resources>
